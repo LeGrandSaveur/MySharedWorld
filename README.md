@@ -1,1 +1,1 @@
-# MySharedWorld
+This repository has been created for sharing my world with the outside world.
